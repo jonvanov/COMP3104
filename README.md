@@ -1,2 +1,1 @@
-My first DevOps repo
-# COMP3104
+#### COMP3104 – Developer Operations
